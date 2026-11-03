@@ -1,0 +1,8 @@
+id = "storage_chests"
+name = "Storage Chests"
+version = "0.2.0"
+description = "Five tiers of 27-slot storage blocks: Iron, Gold, Diamond, Netherite and Crystal."
+authors = ["You"]
+api = "0.2"
+side = "both"
+capabilities = ["registries"]

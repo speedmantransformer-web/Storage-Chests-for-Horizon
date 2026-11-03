@@ -1,0 +1,11 @@
+{
+  "template": "minecraft:barrel",
+  "properties": {
+    "hardness": 4.0,
+    "explosion_resistance": 6.0,
+    "requires_tool": true,
+    "light": 6,
+    "sounds": "minecraft:amethyst_block",
+    "map_color": 20
+  }
+}

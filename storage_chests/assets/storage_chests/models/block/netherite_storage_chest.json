@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "storage_chests:block/netherite_storage_chest_top",
+    "bottom": "storage_chests:block/netherite_storage_chest_bottom",
+    "side": "storage_chests:block/netherite_storage_chest_side"
+  }
+}

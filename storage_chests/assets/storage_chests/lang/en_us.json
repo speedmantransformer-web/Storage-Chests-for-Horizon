@@ -1,0 +1,7 @@
+{
+  "block.storage_chests.iron_storage_chest": "Iron Storage Chest",
+  "block.storage_chests.gold_storage_chest": "Gold Storage Chest",
+  "block.storage_chests.diamond_storage_chest": "Diamond Storage Chest",
+  "block.storage_chests.netherite_storage_chest": "Netherite Storage Chest",
+  "block.storage_chests.crystal_storage_chest": "Crystal Storage Chest"
+}

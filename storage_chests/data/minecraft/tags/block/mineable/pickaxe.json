@@ -1,0 +1,9 @@
+{
+  "values": [
+    "storage_chests:iron_storage_chest",
+    "storage_chests:gold_storage_chest",
+    "storage_chests:diamond_storage_chest",
+    "storage_chests:netherite_storage_chest",
+    "storage_chests:crystal_storage_chest"
+  ]
+}
